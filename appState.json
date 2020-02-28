@@ -1,0 +1,102 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "6e324d71-3a02-4157-b083-13650485f163": {
+        "id": "6e324d71-3a02-4157-b083-13650485f163",
+        "parent": null,
+        "name": "lambda.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "lambda.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": [
+          {
+            "resourceName": "apigcaCentral1indunilcalteststgingany",
+            "config": {}
+          }
+        ]
+      }
+    },
+    "openFiles": [
+      "6e324d71-3a02-4157-b083-13650485f163"
+    ],
+    "currentFileId": "6e324d71-3a02-4157-b083-13650485f163",
+    "resources": {
+      "apigcaCentral1indunilcalteststgingany": {
+        "name": "apigcaCentral1indunilcalteststgingany",
+        "type": "API_GATEWAY",
+        "config": {
+          "selectedRegion": "ca-central-1",
+          "apiMode": 1,
+          "apiName": "indunilcal",
+          "apiId": "gulryx9efc",
+          "endpointType": "REGIONAL",
+          "rootResourceId": "to8orweyp6",
+          "existingResources": {
+            "/test/stging/ind": "4y074b",
+            "/test": "6p0v7r",
+            "/": "to8orweyp6",
+            "/test/stging": "wbevq9"
+          },
+          "resourceMode": 1,
+          "resourcePath": "/test/stging",
+          "resourceName": "test/stging",
+          "resourceId": "wbevq9",
+          "restMethod": "ANY",
+          "proxyIntegration": false,
+          "enableCORS": false,
+          "stageMode": 1,
+          "stageName": "Test",
+          "stageDeploymentId": "qr0532",
+          "mode": 1
+        }
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "centrl-indu28",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "ca-central-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1582869725053
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "centrl-indu28",
+      "url": "https://github.com/Indunil1992/centrl-indu28"
+    }
+  }
+}
