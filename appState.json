@@ -4,15 +4,15 @@
       "6e324d71-3a02-4157-b083-13650485f163": {
         "id": "6e324d71-3a02-4157-b083-13650485f163",
         "parent": null,
-        "name": "lambda.js",
+        "name": "sdsdlambda.js",
         "type": "JS_LAMBDA",
         "isDirectory": false,
         "children": [],
         "isRemovable": true,
-        "filePath": "lambda.js",
+        "filePath": "sdsdlambda.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 41
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -90,7 +90,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1582869725053
+    "lastSave": 1582869800001
   },
   "VCS_STATE": {
     "provider": "GitHub",
